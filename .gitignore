@@ -3,3 +3,34 @@ __pycache__/
 .ipynb_checkpoints/
 *.pyc
 data/raw/
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/
+
+# VSCode
+.vscode/
+
+# OS Files
+.DS_Store
+
+# Data Exports
+data/exports/
+
+# Generated CSVs
+*.csv
+
+# ML Models
+*.pkl
+
+# Logs
+*.log
