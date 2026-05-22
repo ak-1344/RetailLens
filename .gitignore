@@ -34,3 +34,6 @@ data/exports/
 
 # Logs
 *.log
+
+
+data/processed/cleaned_retail.csv
